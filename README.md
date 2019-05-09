@@ -6,6 +6,7 @@
 * 1차 발표(2019.04.17): 기획한 사이트 컨셉, User Story Mapping
 * 2차 발표(2019.05.16): 사이트 스토리보드
 
+# 일자별 회의/Output
 | 일자 | 안건 | Slide | 회의록 | 기타 자료 | 
 | --- | --- | ----- | ---- | ------- | 
 | 04/14| 1차 발표 준비 | [PDF](https://drive.google.com/file/d/1lKedPW4HoOJ1IzoRdsc338iG3iauU1Ul/view?usp=sharing) | [Docs](https://docs.google.com/spreadsheets/d/1lGHjQyryeqpy9AoeKyOH9C6PjAero9M80GrySrfVXh4/edit?usp=sharing)| [User Story Mapping](https://docs.google.com/spreadsheets/d/1lGHjQyryeqpy9AoeKyOH9C6PjAero9M80GrySrfVXh4/edit?usp=sharing)|
