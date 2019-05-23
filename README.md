@@ -13,3 +13,4 @@
 | 05/02 | User Story Mapping 최종 정의 역할분담| | [Docs](https://docs.google.com/document/d/1kOTaWD7W4HniYtI4Vsudv3Gzno-_MviGzOBvQiHVj4Q/edit?usp=sharing)| | |
 05/08 | User Story Mapping 최종 정의 | | [Docs](https://docs.google.com/document/d/1X-8hvW8En9MYSyDEP0OczYwSwiJ-jW_Yil9hpidNw0E/edit?usp=sharing)| [User Story Mapping](https://docs.google.com/spreadsheets/d/1t4YqCAq6JtGa6C2GWxQ_CDTZDVNW2Eto_XLkjIuMVGE/edit?usp=sharing)
 05/22 | 화면설계서 - RoleMoon | [PPT](https://drive.google.com/open?id=1b0kXjPjyfZ51vPUXbhx3ydY202LpBYb6)| | |
+05/22 | 프로토타이핑 - RoleMoon | [PPT](https://drive.google.com/open?id=1C7abo93rN8MhZQAO3Jq6ovqy0eDhevgU)| | |
