@@ -15,4 +15,4 @@
 05/22 | 화면설계서 - RoleMoon | [PPT](https://drive.google.com/open?id=1b0kXjPjyfZ51vPUXbhx3ydY202LpBYb6)| | |
 05/22 | 프로토타이핑 - RoleMoon | [PPT](https://drive.google.com/open?id=1C7abo93rN8MhZQAO3Jq6ovqy0eDhevgU)| | |
 05/30 |RoleMoon ERD그리기 – Entity 정의 및 역할 분담 || [Docs](https://drive.google.com/file/d/1AqupvbHh1o_C06zlZ9JE7ocNtNt85nRh/view?usp=sharing)| |
-06/05 |RoleMoon ERD 완성 || [Image](https://drive.google.com/open?id=1AqupvbHh1o_C06zlZ9JE7ocNtNt85nRh)| |
+06/05 |RoleMoon ERD 완성 |||[ERD](https://drive.google.com/open?id=1AqupvbHh1o_C06zlZ9JE7ocNtNt85nRh)|
